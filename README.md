@@ -7,7 +7,7 @@ Utilizei da uma API REST pública (thecatapi) que retorna informações aleatori
 Link:https://allanfernds.github.io/random-cats/
 
 ## Layout do projeto
-![layout.png](layout/layout.png)
+![layout.png](layout.png)
 ### Autor
 
 LinkedIn: https://www.linkedin.com/in/alan-fernandes-03096317b/
