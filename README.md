@@ -2,7 +2,7 @@
 
 Este Projeto foi criado para colocar em prática meus conhecimentos adquiridos sobre consume de API com Fetch e tratamento de funções assíncronas com async/await.
 
-Utilizei da uma API REST pública (thecatapi) que retorna informações aleatorias sobre gatinhos, incluindo imagens, aproveitando isso criari uma pagina que gera imagens aleatorias desses gatinhos.
+Utilizei da uma API REST pública (thecatapi) que retorna informações aleatorias sobre gatinhos, incluindo imagens, aproveitando isso criei uma pagina que gera imagens aleatorias desses gatinhos.
 
 Link:https://allanfernds.github.io/random-cats/
 
