@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+ 
+
+body {
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: 'Short Stack', cursive;
+  background-color: white;
+  color: palevioletred;
+}
+
+main section {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+    border-radius: 10px 10px 0 0;
+    width: 500px;
+    height: 500px;
+}
+
+button {
+  background-color: rgb(128, 236, 255);
+  border: 2px solid pink;
+  cursor: pointer;
+}
